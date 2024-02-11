@@ -8,4 +8,4 @@ this is the simple prject to how to use Git and github
 
 this is the example of git and github
 
-## github
+## copyright
