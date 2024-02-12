@@ -5,3 +5,7 @@ Automatic merges
 All my studies
 
 please leave review 
+
+Index chnages
+
+git branch
