@@ -12,3 +12,6 @@ git branch
 
 git tag example
 
+
+git commands
+
